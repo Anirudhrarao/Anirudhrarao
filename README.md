@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniruddh Full Stack Devloper.
-- 👀 I’m interested in Python, Django, Django Rest Framework.
-- 🌱 I’m currently learning python, django, django rest framework
+- 👀 I’m interested in Python, Data Science
+- 🌱 I’m currently learning python, Machine Learning, Deep Learning, NLP
 - 📫 How to reach me Raorudhra@16gmail.com
 
 <!---
