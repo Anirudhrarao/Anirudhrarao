@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aniruddh Rao
 
-![Banner](https://drive.google.com/file/d/1Hr0uVDuE6UehsNrH4CQZasZLqcuK4HH5/view)
+![Banner](https://github.com/Anirudhrarao/Anirudhrarao/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner.png)
 
 Welcome to my GitHub profile! I'm a dedicated software developer with expertise in web development, data science, and machine learning. My passion lies in solving complex problems and building impactful applications. Whether it's crafting seamless user interfaces or developing robust backend systems, I'm always eager to learn and apply new technologies.
 
