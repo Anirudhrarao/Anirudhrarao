@@ -12,11 +12,10 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 - **Web Scraping:** ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2A9D8F?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 - **Other Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=rest&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
-![Aniruddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirudhrarao&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhrarao&layout=compact&theme=radical)
+![Aniruddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirudhrarao&show_icons=true&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhrarao&layout=compact&theme=light)
 
 ## 🌐 Let's Connect
 
