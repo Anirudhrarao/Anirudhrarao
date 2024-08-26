@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aniruddh Rao
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong background in web development, data science, and machine learning. I love solving problems and building applications that make a difference.
+Welcome to my GitHub profile! I'm a dedicated software developer with expertise in web development, data science, and machine learning. My passion lies in solving complex problems and building impactful applications. Whether it's crafting seamless user interfaces or developing robust backend systems, I'm always eager to learn and apply new technologies.
 
 ## 🚀 Tech Skills
 
@@ -8,22 +8,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - **Backend Development:** Python, Node.js, Django, Django REST Framework, ERPNext, Frappe
 - **Data Science & Machine Learning:** Python, SQL, Pandas, NumPy, Scikit-learn, NLP, Deep Learning
 - **Web Scraping:** BeautifulSoup, Selenium
-- **Other Technologies:** SQL, Git, GitHub, REST APIs
+- **Other Technologies:** Git, GitHub, REST APIs
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Aniruddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirudhrarao&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhrarao&layout=compact&theme=radical)
 
-## 📌 Pinned Repositories
+## 🌐 Let's Connect
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anirudhrarao&repo=yourrepo1&theme=radical)](https://github.com/Anirudhrarao/web-scraping-101)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anirudhrarao&repo=yourrepo2&theme=radical)](https://github.com/Anirudhrarao/yourrepo2)
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/anirudhra-rao-aa013b240/)
-- Email: [raorudhra16@gmail.com](mailto:raorudhra16@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniruddh%20Rao-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anirudhra-rao-aa013b240/)
+- [![Gmail](https://img.shields.io/badge/Email-raorudhra16%40gmail.com-red?style=flat&logo=gmail)](mailto:raorudhra16@gmail.com)
 
 ## ✨ Fun Fact
 
