@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo1&theme=radical)](https://github.com/yourusername/yourrepo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo2&theme=radical)](https://github.com/yourusername/yourrepo2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anirudhrarao&repo=yourrepo1&theme=radical)](https://github.com/Anirudhrarao/web-scraping-101)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anirudhrarao&repo=yourrepo2&theme=radical)](https://github.com/Anirudhrarao/yourrepo2)
 
 ## 📫 Let's Connect
 
